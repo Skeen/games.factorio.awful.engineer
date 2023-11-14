@@ -1,0 +1,5 @@
+creation_rules:
+  # Frankfurt
+  - path_regex: clusters/frankfurt/.+\.enc\.y(a)?ml$
+    age: 'age1rh8pg9mhwmpp6uh5eky5nrchlvycu5xw2zk5g2mw7r3yazp7dq7qz68rr8'
+    encrypted_regex: '^(data|stringData)$'
